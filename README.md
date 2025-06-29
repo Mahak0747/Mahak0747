@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahak!</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>, I'm Mahak!</h1>
 
 **🚀 Passionate Developer | AI Enthusiast | Problem Solver**  
 *First-Year Student | DSA & Competitive Programming | Game Dev | Web Dev*

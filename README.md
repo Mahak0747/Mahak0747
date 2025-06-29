@@ -77,8 +77,7 @@
 
 <a href="https://www.linkedin.com/in/mahak-goswami-4224aa326/"><img src="https://github.com/user-attachments/assets/515fc5fa-872f-4c79-bb68-42d837448491" alt="LinkedIn" width="40" height="40"/></a>
 <a href="mahak.goswami2050@gmail.com"><img src="https://github.com/user-attachments/assets/65cace56-d22a-45d9-8310-3a6efc603484" alt="Mail" width="40" height="40"/></a>
-<a href="https://www.codechef.com/users/angel_light_08" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="angel_light_08" height="40" width="40" /></a>
-<a href="https://www.hackerrank.com/mahak_goswami201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mahak_goswami201" height="40" width="40" /></a>
+<a href="https://discord.gg/mahak0747"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mahak0747" height="40" width="40" /></a>
 
 ---
 

@@ -67,9 +67,17 @@
 
 ## 📌📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahak0747&show_icons=true&locale=en" alt="mahak0747" /></p>
+<p>&nbsp;</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahak0747&" alt="mahak0747" /></p>
+<p></p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahak0747&show_icons=true&&hide_border=true" />
+  <br/><br/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahak0747&hide_border=true" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahak0747&layout=compact&hide_border=true"/>
+</p>
 
 ---
 

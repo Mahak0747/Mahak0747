@@ -1,8 +1,9 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>, I'm Mahak!</h1>
-
-**🚀 Passionate Developer | AI Enthusiast | Problem Solver**  
-*First-Year Student | DSA & Competitive Programming | Game Dev | Web Dev*
-
+<body style="background-image: url('https://github.com/user-attachments/assets/6818d53e-b7bf-459d-97f0-b23ad7ff2e15'); background-size: cover; padding: 40; color: white;">
+<h1 align="center">Hi, I'm Mahak! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /></h1>
+<p align="center">
+  <i>Engineering student 👩‍💻 | Passionate Web Developer 🌐 | AI Enthusiast 🤖 | Game Dev Enthusiast 🚀</i>
+</p>
+  
 ---
 
 ## 📌 About Me
@@ -73,14 +74,16 @@
 <p></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahak0747&show_icons=true&&hide_border=true" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahak0747&layout=compact&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mahak0747&show_icons=true&&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahak0747&layout=compact&hide_border=true" height="150"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahak0747&theme=tokyo-night&area=true&hide_border=true" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Connect With Me
 
 <a href="https://www.linkedin.com/in/mahak-goswami-4224aa326/"><img src="https://github.com/user-attachments/assets/515fc5fa-872f-4c79-bb68-42d837448491" alt="LinkedIn" width="40" height="40"/></a>
 <a href="mahak.goswami2050@gmail.com"><img src="https://github.com/user-attachments/assets/65cace56-d22a-45d9-8310-3a6efc603484" alt="Mail" width="40" height="40"/></a>
@@ -89,3 +92,4 @@
 ---
 
 ✨ **Let's collaborate and build something awesome!** ✨
+</body>

@@ -74,8 +74,8 @@
 <p></p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahak0747&show_icons=true&&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahak0747&layout=compact&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mahak0747&show_icons=true&hide_border=true&theme=tokyo-night" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahak0747&layout=compact&hide_border=true&theme=tokyo-night" height="150" />
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahak0747&theme=tokyo-night&area=true&hide_border=true" />

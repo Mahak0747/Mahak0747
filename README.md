@@ -1,4 +1,3 @@
-<body style="background-image: url('https://github.com/user-attachments/assets/6818d53e-b7bf-459d-97f0-b23ad7ff2e15'); background-size: cover; padding: 40; color: white;">
 <h1 align="center">Hi, I'm Mahak! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /></h1>
 <p align="center">
   <i>Engineering student 👩‍💻 | Passionate Web Developer 🌐 | AI Enthusiast 🤖 | Game Dev Enthusiast 🚀</i>
@@ -68,16 +67,9 @@
 ---
 
 ## 📌📊 GitHub Stats
-
-<p>&nbsp;</p>
-
-<p></p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahak0747&show_icons=true&hide_border=true&theme=tokyo-night" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahak0747&layout=compact&hide_border=true&theme=tokyo-night" height="150" />
-</p>
-<p align="center">
+<p align="center" >
+  <img src="https://github-readme-stats.vercel.app/api?username=mahak0747&show_icons=true&hide_border=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahak0747&layout=compact&hide_border=true&theme=tokyonight" height="150" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahak0747&theme=tokyo-night&area=true&hide_border=true" />
 </p>
 
@@ -92,4 +84,3 @@
 ---
 
 ✨ **Let's collaborate and build something awesome!** ✨
-</body>

@@ -36,9 +36,10 @@
     <td style="padding: 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://github.com/user-attachments/assets/e69290ac-3f26-4b8e-91ba-c459a3c2fb14" width="40" height="40" alt="Image"  />
-  <img src="https://github.com/user-attachments/assets/368fb10e-9e85-4c04-8413-080b41061a9c" width="40" height="40" alt="Image"  /></td>
+  <img src="https://github.com/user-attachments/assets/0734c3ae-f6c2-4248-9133-cd5fa6c29f48" width="40" height="40" alt="Image"  />
+  <img src="https://github.com/user-attachments/assets/368fb10e-9e85-4c04-8413-080b41061a9c" width="40" height="40" alt="Image"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></td>
   </tr>
   <tr>
     <td style="padding: 10px;"><strong>🎮 Game Dev & Design</strong></td>

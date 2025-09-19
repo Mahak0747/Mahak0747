@@ -58,7 +58,7 @@
   <tr>
     <td style="padding: 10px;"><strong>🧰 Tools</strong></td>
     <td style="padding: 10px;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://github.com/user-attachments/assets/577d71bc-8edf-42f9-bf78-a552ee6de281" alt="GitHub" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   <img src="https://github.com/user-attachments/assets/0bb1877b-4907-4afd-bd25-e99c1a3b9f0f" alt="Canva" width="40" height="40"/></td>

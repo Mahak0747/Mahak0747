@@ -7,7 +7,7 @@
 
 ## 📌 About Me
 
-- 🎓 **First-year student** exploring the world of code.
+- 🎓 **Second-year student** exploring the world of code.
 - 💡 **Interests**: AI/ML, Game Development, Web Development, Data Structures, Competitive Programming.
 - ⚡ **Currently learning**: Data Structures & Algorithms (DSA), Game Development, Web Development.
 - 💻 Experience with Python, Java, and Web Development.

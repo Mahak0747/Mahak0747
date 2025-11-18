@@ -68,7 +68,7 @@
 
 ---
 
-## 🎖️ Batches
+## 🎖️ Badges
 
 <p align="left"> 
   <a href="https://leetcode.com/u/MahakG07/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="batch" height="80" width="80" /></a>

@@ -54,6 +54,7 @@
     <td style="padding: 10px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
       <img width="45" height="45" alt="Image" src="https://github.com/user-attachments/assets/88ddeaaa-b619-4e03-b2ad-73d47cae1f46" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+  <img width="60" height="60" alt="Image" src="https://github.com/user-attachments/assets/d9223f3b-bc7b-41f9-bf54-2f6d9c6a6100" />
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></td>
   </tr>
   <tr>

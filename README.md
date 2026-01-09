@@ -3,7 +3,7 @@
   <i>Engineering student 👩‍💻 | Passionate Web Developer 🌐 | AI Enthusiast 🤖 | Game Dev Enthusiast 🚀</i>
 </p> -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=FF7F00&center=true&vCenter=true&random=false&width=600&lines=Engineering+student+👩‍💻;Passionate+Web+Developer+💻;AI+Enthusiast+🤖;Game+Dev+Enthusiast+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=100&color=FF7F00&center=true&vCenter=true&random=false&width=600&lines=Engineering+student+👩‍💻;Passionate+Web+Developer+💻;AI+Enthusiast+🤖;Game+Dev+Enthusiast+🚀" alt="Typing SVG" />
 </p>
 
 ---

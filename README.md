@@ -83,7 +83,7 @@
       <img src="https://img.shields.io/badge/🏅-MICROSOFT-4169E1?style=for-the-badge&labelColor=191970" width="100">
       <br>
       <a href="https://www.g.dev/mreccentric"">
-        <img width="740" height="555" alt="Image" src="https://github.com/user-attachments/assets/471a29fe-2a22-4f24-850a-a2085310f84a" />
+        <img width="180" height="190" alt="Image" src="https://github.com/user-attachments/assets/3fa9f71f-5b4e-4842-952f-7603a327f80f" />
       </a>
       <br>
       <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-4169E1?style=flat&labelColor=191970" width="80">
@@ -92,7 +92,7 @@
       <img src="https://img.shields.io/badge/🏅-MICROSOFT-4169E1?style=for-the-badge&labelColor=191970" width="100">
       <br>
       <a href="https://www.g.dev/mreccentric"">
-        <img width="740" height="555" alt="Image" src="https://github.com/user-attachments/assets/2f6a122f-921a-410a-8c44-1f0f856b5fde" />
+        <img width="102" height="102" alt="Image" src="https://github.com/user-attachments/assets/9c8ee33c-5a30-48c2-9ebb-edc2c9345bb3" />
       </a>
       <br>
       <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-4169E1?style=flat&labelColor=191970" width="80">
@@ -101,7 +101,7 @@
       <img src="https://img.shields.io/badge/🏅-MICROSOFT-4169E1?style=for-the-badge&labelColor=191970" width="100">
       <br>
       <a href="https://www.g.dev/mreccentric"">
-        <img width="835" height="622" alt="Image" src="https://github.com/user-attachments/assets/5a38dd77-be63-49fe-886a-a2e8da727d37" />
+        <img width="202" height="168" alt="Image" src="https://github.com/user-attachments/assets/872f0070-21c4-4c56-ab2b-a3d5dfdeed5f" />
       </a>
       <br>
       <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-4169E1?style=flat&labelColor=191970" width="80">
@@ -110,7 +110,7 @@
       <img src="https://img.shields.io/badge/🏅-MICROSOFT-4169E1?style=for-the-badge&labelColor=191970" width="100">
       <br>
       <a href="https://www.g.dev/mreccentric">
-        <img width="833" height="623" alt="Image" src="https://github.com/user-attachments/assets/b9c2cda4-bb34-4374-930c-ab1fbf243b2b" />
+        <img width="202" height="168" alt="Image" src="https://github.com/user-attachments/assets/a5a82c22-c8d2-42f9-8151-6232cea97ae4" />
       </a>
       <br>
       <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-4169E1?style=flat&labelColor=191970" width="80">
@@ -119,7 +119,7 @@
       <img src="https://img.shields.io/badge/🏅-MICROSOFT-4169E1?style=for-the-badge&labelColor=191970" width="100">
       <br>
       <a href="https://www.g.dev/mreccentric"">
-        <img width="837" height="620" alt="Image" src="https://github.com/user-attachments/assets/2462a409-184f-4052-8676-063b6567ac6e" />
+        <img width="202" height="168" alt="Image" src="https://github.com/user-attachments/assets/69f58ef0-2f0b-4cd1-9c81-fe7ad858761d" />
       </a>
       <br>
       <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-4169E1?style=flat&labelColor=191970" width="80">
@@ -128,7 +128,7 @@
       <img src="https://img.shields.io/badge/🏅-MICROSOFT-4169E1?style=for-the-badge&labelColor=191970" width="100">
       <br>
       <a href="https://www.g.dev/mreccentric"">
-        <img width="835" height="622" alt="Image" src="https://github.com/user-attachments/assets/e6a93745-a759-44ee-90c3-2ec3f1b96c04" />
+        <img width="180" height="190" alt="Image" src="https://github.com/user-attachments/assets/f9f8056d-445e-4493-ab41-5e9284b48ed5" />
       </a>
       <br>
       <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-4169E1?style=flat&labelColor=191970" width="80">
@@ -139,7 +139,7 @@
       <img src="https://img.shields.io/badge/🏅-MICROSOFT-4169E1?style=for-the-badge&labelColor=191970" width="100">
       <br>
       <a href="https://www.cloudskillsboost.google/public_profiles/88955038-92e7-4861-b63b-aee7a92261cc/badges/17367419">
-        <img width="832" height="623" alt="Image" src="https://github.com/user-attachments/assets/fab243df-82cf-4e1c-8bb7-fd9f4602e6db" />
+        <img width="102" height="102" alt="Image" src="https://github.com/user-attachments/assets/e892ba9e-b5f4-4c30-94f7-26ff658ae27e" />
       </a>
       <br>
       <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-9370DB?style=flat&labelColor=4B0082" width="80">
@@ -148,7 +148,7 @@
       <img src="https://img.shields.io/badge/🏅-MICROSOFT-4169E1?style=for-the-badge&labelColor=191970" width="100">
       <br>
       <a href="https://www.cloudskillsboost.google/public_profiles/88955038-92e7-4861-b63b-aee7a92261cc/badges/17519518">
-        <img width="833" height="622" alt="Image" src="https://github.com/user-attachments/assets/67f8fa6d-ac33-4626-9301-068ad20e14dc" />
+        <img width="180" height="190" alt="Image" src="https://github.com/user-attachments/assets/fc7c10e8-8a93-4586-9e1c-5ed5bab9d938" />
       </a>
       <br>
       <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-9370DB?style=flat&labelColor=4B0082" width="80">

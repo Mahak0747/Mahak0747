@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm Mahak! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /></h1>
-<!-- <p align="center">
-  <i>Engineering student 👩‍💻 | Passionate Web Developer 🌐 | AI Enthusiast 🤖 | Game Dev Enthusiast 🚀</i>
-</p> -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=100&color=FF7F00&center=true&vCenter=true&random=false&width=600&lines=Engineering+student+👩‍💻;Passionate+Web+Developer+💻;AI+Enthusiast+🤖;Game+Dev+Enthusiast+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=2500&pause=100&color=FF7F00&center=true&vCenter=true&random=false&width=600&lines=Engineering+student+👩‍💻;Passionate+Web+Developer+💻;AI+Enthusiast+🤖;Game+Dev+Enthusiast+🚀" alt="Typing SVG" />
 </p>
 
 ---
@@ -79,6 +76,174 @@
   <a href="https://leetcode.com/u/MahakG07/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="batch" height="80" width="80" /></a>
   <a href="https://leetcode.com/u/MahakG07/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="batch" height="80" width="80" /></a>
 </p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/🏅-MICROSOFT-4169E1?style=for-the-badge&labelColor=191970" width="100">
+      <br>
+      <a href="https://www.g.dev/mreccentric"">
+        <img width="740" height="555" alt="Image" src="https://github.com/user-attachments/assets/471a29fe-2a22-4f24-850a-a2085310f84a" />
+      </a>
+      <br>
+      <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-4169E1?style=flat&labelColor=191970" width="80">
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/🏅-MICROSOFT-4169E1?style=for-the-badge&labelColor=191970" width="100">
+      <br>
+      <a href="https://www.g.dev/mreccentric"">
+        <img width="740" height="555" alt="Image" src="https://github.com/user-attachments/assets/2f6a122f-921a-410a-8c44-1f0f856b5fde" />
+      </a>
+      <br>
+      <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-4169E1?style=flat&labelColor=191970" width="80">
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/🏅-MICROSOFT-4169E1?style=for-the-badge&labelColor=191970" width="100">
+      <br>
+      <a href="https://www.g.dev/mreccentric"">
+        <img width="835" height="622" alt="Image" src="https://github.com/user-attachments/assets/5a38dd77-be63-49fe-886a-a2e8da727d37" />
+      </a>
+      <br>
+      <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-4169E1?style=flat&labelColor=191970" width="80">
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/🏅-MICROSOFT-4169E1?style=for-the-badge&labelColor=191970" width="100">
+      <br>
+      <a href="https://www.g.dev/mreccentric">
+        <img width="833" height="623" alt="Image" src="https://github.com/user-attachments/assets/b9c2cda4-bb34-4374-930c-ab1fbf243b2b" />
+      </a>
+      <br>
+      <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-4169E1?style=flat&labelColor=191970" width="80">
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/🏅-MICROSOFT-4169E1?style=for-the-badge&labelColor=191970" width="100">
+      <br>
+      <a href="https://www.g.dev/mreccentric"">
+        <img width="837" height="620" alt="Image" src="https://github.com/user-attachments/assets/2462a409-184f-4052-8676-063b6567ac6e" />
+      </a>
+      <br>
+      <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-4169E1?style=flat&labelColor=191970" width="80">
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/🏅-MICROSOFT-4169E1?style=for-the-badge&labelColor=191970" width="100">
+      <br>
+      <a href="https://www.g.dev/mreccentric"">
+        <img width="835" height="622" alt="Image" src="https://github.com/user-attachments/assets/e6a93745-a759-44ee-90c3-2ec3f1b96c04" />
+      </a>
+      <br>
+      <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-4169E1?style=flat&labelColor=191970" width="80">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/🏅-MICROSOFT-4169E1?style=for-the-badge&labelColor=191970" width="100">
+      <br>
+      <a href="https://www.cloudskillsboost.google/public_profiles/88955038-92e7-4861-b63b-aee7a92261cc/badges/17367419">
+        <img width="832" height="623" alt="Image" src="https://github.com/user-attachments/assets/fab243df-82cf-4e1c-8bb7-fd9f4602e6db" />
+      </a>
+      <br>
+      <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-9370DB?style=flat&labelColor=4B0082" width="80">
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/🏅-MICROSOFT-4169E1?style=for-the-badge&labelColor=191970" width="100">
+      <br>
+      <a href="https://www.cloudskillsboost.google/public_profiles/88955038-92e7-4861-b63b-aee7a92261cc/badges/17519518">
+        <img width="833" height="622" alt="Image" src="https://github.com/user-attachments/assets/67f8fa6d-ac33-4626-9301-068ad20e14dc" />
+      </a>
+      <br>
+      <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-9370DB?style=flat&labelColor=4B0082" width="80">
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/🏅-GOOGLE-9370DB?style=for-the-badge&labelColor=4B0082" width="100">
+      <br>
+      <a href="https://www.cloudskillsboost.google/public_profiles/88955038-92e7-4861-b63b-aee7a92261cc/badges/17599566">
+        <img width="1000" height="1000" alt="Image" src="https://github.com/user-attachments/assets/d9806dd2-43d5-46dc-bd62-63e4ea08ce14" />
+      </a>
+      <br>
+      <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-9370DB?style=flat&labelColor=4B0082" width="80">
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/🏅-GOOGLE-9370DB?style=for-the-badge&labelColor=4B0082" width="100">
+      <br>
+      <a href="https://www.cloudskillsboost.google/public_profiles/88955038-92e7-4861-b63b-aee7a92261cc/badges/17608666">
+        <img width="1000" height="1000" alt="Image" src="https://github.com/user-attachments/assets/e6986233-730d-4e6f-bef7-494e5950f5ff" />
+      </a>
+      <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-9370DB?style=flat&labelColor=4B0082" width="80">
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/🏅-GOOGLE-9370DB?style=for-the-badge&labelColor=4B0082" width="100">
+      <br>
+      <a href="https://www.cloudskillsboost.google/public_profiles/88955038-92e7-4861-b63b-aee7a92261cc">
+        <img width="1000" height="1000" alt="Image" src="https://github.com/user-attachments/assets/2c552c11-3286-430c-8e41-d4a8763d851f" />
+      </a>
+      <br>
+      <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-9370DB?style=flat&labelColor=4B0082" width="80">
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/🏅-GOOGLE-9370DB?style=for-the-badge&labelColor=4B0082" width="100">
+      <br>
+      <a href="https://www.g.dev/mreccentric"">
+        <img width="1000" height="1000" alt="Image" src="https://github.com/user-attachments/assets/044109d4-0f7b-44a5-9e79-eba4cc94b7d6" />
+      </a>
+      <br>
+      <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-9370DB?style=flat&labelColor=4B0082" width="80">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/🏅-GOOGLE-9370DB?style=for-the-badge&labelColor=4B0082" width="100">
+      <br>
+      <a href="https://www.credly.com/badges/76e994f4-a66f-4209-9727-f0007de3c3a8/public_url">
+        <img width="1000" height="1000" alt="Image" src="https://github.com/user-attachments/assets/3b8c63e4-7d69-4652-9fa3-6c15057eba99" />
+      </a>
+      <br>
+      <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-9370DB?style=flat&labelColor=4B0082" width="80">
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/🏅-GOOGLE-9370DB?style=for-the-badge&labelColor=4B0082" width="100">
+      <br>
+      <a href="https://www.credly.com/badges/76e994f4-a66f-4209-9727-f0007de3c3a8/public_url">
+        <img width="1000" height="1000" alt="Image" src="https://github.com/user-attachments/assets/6470ee75-5851-4a7f-be5e-fe42edadee5f" />
+      </a>
+      <br>
+      <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-9370DB?style=flat&labelColor=4B0082" width="80">
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/🏅-GOOGLE-9370DB?style=for-the-badge&labelColor=4B0082" width="100">
+      <br>
+      <a href="https://www.credly.com/badges/76e994f4-a66f-4209-9727-f0007de3c3a8/public_url">
+        <img width="1000" height="1000" alt="Image" src="https://github.com/user-attachments/assets/954b07b6-b3e3-4f6b-bfea-ad23469b9553" />
+      </a>
+      <br>
+      <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-9370DB?style=flat&labelColor=4B0082" width="80">
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/🏅-GOOGLE-9370DB?style=for-the-badge&labelColor=4B0082" width="100">
+      <br>
+      <a href="https://www.credly.com/badges/76e994f4-a66f-4209-9727-f0007de3c3a8/public_url">
+        <img width="1000" height="1000" alt="Image" src="https://github.com/user-attachments/assets/c9b6cb92-7f6f-424e-b1a7-bb9adbc0f5c5" />
+      </a>
+      <br>
+      <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-9370DB?style=flat&labelColor=4B0082" width="80">
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/🏅-POSTMAN-CD7F32?style=for-the-badge&labelColor=8B4513" width="100">
+      <br>
+      <a href="https://badgr.com/public/assertions/CFV9eM3OS7iTkVb9EiIXZg?identity__email=sagnikgraviton847%40gmail.com">
+        <img width="120" src="https://github.com/user-attachments/assets/2ff6d0f2-416e-48ea-bfc5-8a4e1eefbcf8" />
+      </a>
+      <br>
+      <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-CD7F32?style=flat&labelColor=8B4513" width="80">
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/🏅-GSSoC-DC143C?style=for-the-badge&labelColor=8B0000" width="100">
+      <br>
+      <img width="120" src="https://github.com/user-attachments/assets/65a4736a-2d0b-49e4-8f6c-120b303e189c" />
+      <br>
+      <img src="https://img.shields.io/badge/⭐-VIEW_CREDENTIAL-DC143C?style=flat&labelColor=8B0000" width="80">
+    </td>
+  </tr>
+</table>
 
 ---
 

@@ -11,9 +11,11 @@
 - 💻 **Currently working on:** Building a full-stack MERN Airbnb-style platform with authentication, listings, and booking workflows.
 - ⚡ **Currently learning**: Advanced Data Structures & Algorithms (DSA), Competitive Programming (CP).
 - 💡 **Interests**: Web Development, Competitive Programming (CP), AI/ML.
+<!-- 
 - 🏆 **Coding Profiles Tracker**:-
   
   [![Codolio](https://img.shields.io/badge/Codolio-f09e05?logo=portfolio&logoColor=white)](https://codolio.com/profile/Mahak.)
+-->
 
 ---
 

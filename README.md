@@ -73,17 +73,17 @@
 
 ## 🎖️ Badges
 
-<!-- <div align="center">
+<div align="center">
 <a href="https://leetcode.com/thv7/">
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=thv7&filter=annual&limit=8&animated=true&theme=black" />
 </a>
-</div> -->
-<p align="left"> 
+</div> 
+<!-- <p align="left"> 
   <a href="https://leetcode.com/u/MahakG07/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="80" /></a>
   <a href="https://leetcode.com/u/MahakG07/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" width="80" /></a>
   <a href="https://leetcode.com/u/MahakG07/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="80" /></a>
   <a href="https://leetcode.com/u/MahakG07/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-365.gif" width="80" /></a>
-</p>
+</p> -->
 
 <!-- <table align="center">
   <tr>

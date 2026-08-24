@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mahak! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40"/></h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=2500&pause=100&color=FF7F00&center=true&vCenter=true&random=false&width=600&lines=Engineering+student+👩‍💻;Passionate+Web+Developer+💻;AI+Enthusiast+🤖;Game+Dev+Enthusiast+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=2500&pause=100&color=FF7F00&center=true&vCenter=true&random=false&width=600&lines=Engineering+student+👩‍💻;FullStack+Web+Developer+💻;ML+Engineer+🤖" alt="Typing SVG" />
 </p>
 
 ---
